@@ -115,4 +115,28 @@ _________
 ### Home Login Page:
 
 ![HomeLoginPage](https://user-images.githubusercontent.com/85600714/134948487-d92c6e9e-2ade-44b2-add6-88716e488b6e.png)
+________________________________________________________________
+
+## New User Click the SignUp Botton to Register(User Details):
+__________________________________________________________________
+
+### Like Add User:
+
+![SignUpUser](https://user-images.githubusercontent.com/85600714/134950150-e973da80-9298-4501-84af-1b2f7776b35a.png)
+
+### When the User Successfully SignedUp then It Will Redirecting to Home Login Page:
+
+### Login as User(username and password are correct):
+
+![EnterTheUserLoginDetails](https://user-images.githubusercontent.com/85600714/134950840-33da53b7-dee4-4254-a2cc-92e44c0a3492.png)
+
+### Logged as User and Displaying the Single User Details:
+
+![SingleUserDetails](https://user-images.githubusercontent.com/85600714/134951261-760919b0-480e-4834-abda-7ef6e2e5b7cf.png)
+__________________________________________
+## Update and Logout Functions are Same as the AdminLogin Functionality:
+_______________________________________________
+
+
+
 
