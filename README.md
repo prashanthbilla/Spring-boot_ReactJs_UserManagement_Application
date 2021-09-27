@@ -41,7 +41,7 @@ ___________________________________________________________________
             -password:(Mandatory)
             -phoneNum:(Mandatory)
 
-### Login page:
+### Home Page (Login page):
 
 ![Loginpage](https://user-images.githubusercontent.com/85600714/134907303-d7510734-4d57-4e7b-b505-9746320711db.png)
 ___________
@@ -57,7 +57,9 @@ _________
 
 ![Invalid Credentials](https://user-images.githubusercontent.com/85600714/134909322-8d409546-e581-4f9b-9758-a7da72dbf804.png)
 
-### 1.Login as Admin(Success):
+_____________________________________________
+
+## 1.Login as Admin(Success):
 
 ![AdminLoginSuccess](https://user-images.githubusercontent.com/85600714/134929844-d9195a4e-ba97-4d85-9e89-243636e6a634.png)
 
@@ -74,11 +76,14 @@ _________
 ![AdminAddUserSuccess](https://user-images.githubusercontent.com/85600714/134932047-d22ec530-8ab6-48cf-b494-32f44dc3b727.png)
 
 ### Admin Login UsersList After Adding the User:
+
 ![AdminUsersListAfterAddedOneUser](https://user-images.githubusercontent.com/85600714/134932572-8c469738-6559-469e-a035-a2dfa344a163.png)
+
 ### UpdateUser in Admin Login: When clicks update button it will fetch the user details and dispaly in update user page:
 
         **select the user:**
 ![AdminUpdateUserSelecting](https://user-images.githubusercontent.com/85600714/134933545-50d67f49-4f88-48fe-9771-89544641b690.png)
+
         **getting user details:**
         
 ![AdminUpdateUSer](https://user-images.githubusercontent.com/85600714/134934106-9375c458-f69a-47aa-9a6a-76704f32b966.png)
@@ -92,9 +97,10 @@ _________
 ![AdmineSelectThedelete](https://user-images.githubusercontent.com/85600714/134946376-3ec55f59-447b-421e-a593-eb006e1ffcfa.png)
 
 ### Delete the User in Admin Login:
+________________________________
 
         ***When the delete button clicks***
-        ___________________________________
+       
 
 ![AdminUserDeleted](https://user-images.githubusercontent.com/85600714/134947149-a646d416-32f9-4999-9512-1a20309abf54.png)
 
