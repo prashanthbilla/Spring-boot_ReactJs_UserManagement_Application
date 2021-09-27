@@ -59,4 +59,33 @@ _________
 
 ### 1.Login as Admin(Success):
 
+![AdminLoginSuccess](https://user-images.githubusercontent.com/85600714/134929844-d9195a4e-ba97-4d85-9e89-243636e6a634.png)
+
+### Showing All Users in Admin Login:
+
+![AdminUserList](https://user-images.githubusercontent.com/85600714/134930465-732b11c2-3676-4072-b1da-4d44434f407e.png)
+
+### AddUser in Admin Login:
+
+![AdminAddUser](https://user-images.githubusercontent.com/85600714/134931741-b2673289-e239-4546-b82d-f8be017426ba.png)
+
+### AddUser Success in Admin Login: Note- id is auto-generated integer value
+
+![AdminAddUserSuccess](https://user-images.githubusercontent.com/85600714/134932047-d22ec530-8ab6-48cf-b494-32f44dc3b727.png)
+
+### Admin Login UsersList After Adding the User:
+![AdminUsersListAfterAddedOneUser](https://user-images.githubusercontent.com/85600714/134932572-8c469738-6559-469e-a035-a2dfa344a163.png)
+### UpdateUser in Admin Login: When click update button it will fetch the user details and dispaly in update user page:
+
+        **select the user:**
+![AdminUpdateUserSelecting](https://user-images.githubusercontent.com/85600714/134933545-50d67f49-4f88-48fe-9771-89544641b690.png)
+        **getting user details:**
+        
+![AdminUpdateUSer](https://user-images.githubusercontent.com/85600714/134934106-9375c458-f69a-47aa-9a6a-76704f32b966.png)
+
+### UpdateUser in Admin Login, change the details:
+
+![AdminUpdateUserAfterUpdating](https://user-images.githubusercontent.com/85600714/134934932-57833b9b-b8e8-4a07-baa5-6c9a2727de63.png)
+
+ 
 
