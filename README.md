@@ -5,10 +5,10 @@
 
 
 #### Required Tools and Softwares:
-        -> Java_8V
+        -> Java_8V - Backend Programing Language
         -> IDE(IntelliJIDEA)-Backend
         -> Visual Studio Code and Node (Frontend)
-        -> Mysql Databse(Workbench)
+        -> Mysql Databse(Workbench)-DATABSE
 
 
 __________________________________________________________________________
