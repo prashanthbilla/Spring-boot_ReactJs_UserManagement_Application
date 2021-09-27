@@ -4,5 +4,6 @@
 ### This Application is developed by the SpringBoot(Backend) and React-Js(Frontend).
 
 **There are two login scenarios**
-  .Admin Login
-  .User Login
+
+    -we are humans
+    -we do lot of mistakes
