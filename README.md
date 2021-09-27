@@ -131,11 +131,16 @@ __________________________________________________________________
 ![EnterTheUserLoginDetails](https://user-images.githubusercontent.com/85600714/134950840-33da53b7-dee4-4254-a2cc-92e44c0a3492.png)
 
 ### Logged as User and Displaying the Single User Details:
+### Note: There is No Functionality to Delete the User in User Login:
 
 ![SingleUserDetails](https://user-images.githubusercontent.com/85600714/134951261-760919b0-480e-4834-abda-7ef6e2e5b7cf.png)
 __________________________________________
 ## Update and Logout Functions are Same as the AdminLogin Functionality:
 _______________________________________________
+
+
+
+# THANK YOU VISIT AGAIN................     >Prashanth Billa
 
 
 
