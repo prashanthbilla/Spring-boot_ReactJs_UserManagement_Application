@@ -43,7 +43,7 @@ ___________________________________________________________________
 
 ### Login page:
 
-        ![Loginpage](https://user-images.githubusercontent.com/85600714/134907303-d7510734-4d57-4e7b-b505-9746320711db.png)
+![Loginpage](https://user-images.githubusercontent.com/85600714/134907303-d7510734-4d57-4e7b-b505-9746320711db.png)
     
             
 1. Login as Admin:
