@@ -75,7 +75,7 @@ _________
 
 ### Admin Login UsersList After Adding the User:
 ![AdminUsersListAfterAddedOneUser](https://user-images.githubusercontent.com/85600714/134932572-8c469738-6559-469e-a035-a2dfa344a163.png)
-### UpdateUser in Admin Login: When click update button it will fetch the user details and dispaly in update user page:
+### UpdateUser in Admin Login: When clicks update button it will fetch the user details and dispaly in update user page:
 
         **select the user:**
 ![AdminUpdateUserSelecting](https://user-images.githubusercontent.com/85600714/134933545-50d67f49-4f88-48fe-9771-89544641b690.png)
@@ -83,9 +83,36 @@ _________
         
 ![AdminUpdateUSer](https://user-images.githubusercontent.com/85600714/134934106-9375c458-f69a-47aa-9a6a-76704f32b966.png)
 
-### UpdateUser in Admin Login, change the details:
+### UpdateUser in Admin Login, after changing the details:
 
 ![AdminUpdateUserAfterUpdating](https://user-images.githubusercontent.com/85600714/134934932-57833b9b-b8e8-4a07-baa5-6c9a2727de63.png)
 
- 
+### Delete The User in Admin Login:
+
+![AdmineSelectThedelete](https://user-images.githubusercontent.com/85600714/134946376-3ec55f59-447b-421e-a593-eb006e1ffcfa.png)
+
+### Delete the User in Admin Login:
+
+        ***When the delete button clicks***
+        ___________________________________
+
+![AdminUserDeleted](https://user-images.githubusercontent.com/85600714/134947149-a646d416-32f9-4999-9512-1a20309abf54.png)
+
+        ***When the User delete success:***
+        
+
+![AdminUserDeleteSuccess](https://user-images.githubusercontent.com/85600714/134947270-505a0853-a336-40e8-96a8-ad59c44bbcf5.png)
+
+### All the Cancel Buttons are Redirecting to Previous Page:
+
+![UserCancel](https://user-images.githubusercontent.com/85600714/134947734-8c7997aa-7b36-40e0-b9c8-3c9e926aa768.png)
+
+### All the Logout buttons are Redirecting to Home Login Page:
+
+
+![UserLogout](https://user-images.githubusercontent.com/85600714/134948132-771e1cc1-0d41-4f59-8f94-5bdbed3689ac.png)
+
+### Home Login Page:
+
+![HomeLoginPage](https://user-images.githubusercontent.com/85600714/134948487-d92c6e9e-2ade-44b2-add6-88716e488b6e.png)
 
