@@ -17,7 +17,7 @@ Links:
 [Java_8V](https://www.oracle.com/java/technologies/downloads"download")
 ________[IntelliJIDEA](https://www.jetbrains.com/idea/download"download")
 ________[VisualStudioCode](https://https://code.visualstudio.com/download"download")
-________[MySqlWorkbench](https://https://dev.mysql.com/downloads/workbench"download")
+________[MySqlWorkbench](https://https://dev.mysql.com/downloads/workbench/"download")
  
        
 
