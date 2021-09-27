@@ -46,13 +46,13 @@ ___________________________________________________________________
 ![Loginpage](https://user-images.githubusercontent.com/85600714/134907303-d7510734-4d57-4e7b-b505-9746320711db.png)
 ___________
     
-**Login (When username and passwords are empty):**
+### Login (When username and passwords are empty):
 ___________
 
 ![Empty uname pass](https://user-images.githubusercontent.com/85600714/134908174-ac3e547f-6828-4fd1-aedf-1db3c1ad23e7.png)
 _________
 
-**Login (When username and passwords are incorrect):**
+### Login (When username and passwords are incorrect):
 _________
 
 ![Invalid Credentials](https://user-images.githubusercontent.com/85600714/134909322-8d409546-e581-4f9b-9758-a7da72dbf804.png)
