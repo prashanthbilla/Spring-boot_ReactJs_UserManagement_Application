@@ -10,6 +10,12 @@
         -> Visual Studio Code and Node (Frontend)
         -> Mysql Databse(Workbench)
         
+[Java_8V](https://www.oracle.com/java/technologies/downloads"download")
+[IntelliJIDEA](https://www.jetbrains.com/idea/download"download")
+[VisualStudioCode](https://https://code.visualstudio.com/download"download")
+[VisualStudioCode](https://https://code.visualstudio.com/download"download")
+[VisualStudioCode](https://https://dev.mysql.com/downloads/workbench"download")
+
 ___________________________________________________________________
         
 
