@@ -56,3 +56,7 @@ _________
 _________
 
 ![Invalid Credentials](https://user-images.githubusercontent.com/85600714/134909322-8d409546-e581-4f9b-9758-a7da72dbf804.png)
+
+### 1.Login as Admin(Success):
+
+
