@@ -4,7 +4,7 @@
 ### This Application is developed by the SpringBoot(Backend) and React-Js(Frontend).
 
 
-##### Required Tools and Softwares:
+#### Required Tools and Softwares:
         -> Java_8V
         -> IDE(IntelliJIDEA)-Backend
         -> Visual Studio Code and Node (Frontend)
