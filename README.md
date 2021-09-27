@@ -12,7 +12,7 @@
 
 
 __________________________________________________________________________
-1.Links:
+Links:
 
 [Java_8V](https://www.oracle.com/java/technologies/downloads"download")
 ________[IntelliJIDEA](https://www.jetbrains.com/idea/download"download")
