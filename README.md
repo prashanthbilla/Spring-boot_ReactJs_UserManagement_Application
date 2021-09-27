@@ -22,10 +22,9 @@ ________[MySqlWorkbench](https://https://dev.mysql.com/downloads/workbench"downl
        
 
 ___________________________________________________________________
-        
 
-
-
+## Working and Functionality :
+     
 **There are three login/signup scenarios:**
 
     1. Login as Admin:
