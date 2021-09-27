@@ -7,7 +7,9 @@
 **There are three login/signup scenarios:**
 
     1. Login as Admin
+        -Showing the details of All Users, Admin can create, update and delete the user records
     2. Login as User
+        -Showing the details of logged user and can update the details
     3. Signup as User(then completed the creation of user => Login as user with user credentials username and password )
 
 
