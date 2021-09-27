@@ -11,7 +11,6 @@
         -> Mysql Databse(Workbench)
 
 
-**Links:
 
        [Java_8V](https://www.oracle.com/java/technologies/downloads"download")
        
