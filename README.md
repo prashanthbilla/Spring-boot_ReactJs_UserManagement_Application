@@ -6,19 +6,20 @@ This project aims to manage the users that you can login as an Admin and create 
 
 
 #### Required Tools and Softwares:
-        -> Java_8V - Backend Programing Language
-        -> IDE(IntelliJIDEA)-Backend
-        -> Visual Studio Code and Node (Frontend)
-        -> Mysql Databse(Workbench)-DATABSE
+
+-> Java_8V - Backend Programing Language
+-> IDE(IntelliJIDEA)-Backend
+-> Visual Studio Code and Node (Frontend)
+-> Mysql Databse(Workbench)-DATABSE
 
 
 __________________________________________________________________________
 Links:
 
-[Java_8V](https://www.oracle.com/java/technologies/downloads"download")*
-[IntelliJIDEA](https://www.jetbrains.com/idea/download"download")*
-[VisualStudioCode](https://https://code.visualstudio.com/download"download")*
-[MySqlWorkbench](https://https://dev.mysql.com/downloads/workbench/"download")*
+[Java_8V](https://www.oracle.com/java/technologies/downloads"download")
+[IntelliJIDEA](https://www.jetbrains.com/idea/download"download")
+[VisualStudioCode](https://https://code.visualstudio.com/download"download")
+[MySqlWorkbench](https://https://dev.mysql.com/downloads/workbench/"download")
  
 
 ___________________________________________________________________
