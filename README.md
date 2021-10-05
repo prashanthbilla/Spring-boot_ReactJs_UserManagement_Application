@@ -15,12 +15,11 @@ This project aims to manage the users that you can login as an Admin and create 
 __________________________________________________________________________
 Links:
 
-[Java_8V](https://www.oracle.com/java/technologies/downloads"download")
-________[IntelliJIDEA](https://www.jetbrains.com/idea/download"download")
-________[VisualStudioCode](https://https://code.visualstudio.com/download"download")
-________[MySqlWorkbench](https://https://dev.mysql.com/downloads/workbench/"download")
+[Java_8V](https://www.oracle.com/java/technologies/downloads"download")*
+[IntelliJIDEA](https://www.jetbrains.com/idea/download"download")*
+[VisualStudioCode](https://https://code.visualstudio.com/download"download")*
+[MySqlWorkbench](https://https://dev.mysql.com/downloads/workbench/"download")*
  
-       
 
 ___________________________________________________________________
 
@@ -41,6 +40,8 @@ ___________________________________________________________________
       -Name:    (Mandatory)
       -password:(Mandatory)
       -phoneNum:(Mandatory)
+      
+      _________________________________________
 
 ### Home Page (Login page):
 
@@ -147,9 +148,9 @@ _______________________________________________
 
 
 
-##     **** Thank You ****   
+### Thank You  
 
-> - PRASHANTH BILLA
+> Prashanth Billa
 
 
 
