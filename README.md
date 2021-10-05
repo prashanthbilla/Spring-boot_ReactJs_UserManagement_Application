@@ -142,9 +142,9 @@ __________________________________________________________________
 ### Note: There is No Functionality to Delete the User in User Login:
 
 ![SingleUserDetails](https://user-images.githubusercontent.com/85600714/134951261-760919b0-480e-4834-abda-7ef6e2e5b7cf.png)
-__________________________________________
+
 ## Update and Logout Functions are Same as the AdminLogin Functionality:
-_______________________________________________
+
 
 
 
